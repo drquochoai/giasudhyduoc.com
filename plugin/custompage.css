@@ -576,7 +576,6 @@ H6 {
 	font-weight:normal;
 	}
 	.entry-content table{width :100%}
-	.entry-content td{font-size: 80%;}
 	.entry-content h4{color:rgb(107, 106, 107)}
 	.entry-content table img {margin:auto}
 HR {
@@ -2014,7 +2013,7 @@ Tags: custom
 -moz-box-sizing: border-box;    /* Firefox, other Gecko */
 box-sizing: border-box;   }
 	#thangAddress{padding: 70px 0px 20px 50px; float:left; position:relative; width:30%}
-	#thangAddress img{float:left; width:24.8px; height:39.6px}
+	#thangAddress img{float:left;}
 	#thangAddress font{color:#fff; font-size:20px; text-transform:uppercase; font-weight:bold; padding-left: 15px; margin-top:4px;}
 	#thangAddress address{color:#CCC; padding-left:39px;}
 	

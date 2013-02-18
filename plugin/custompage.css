@@ -535,7 +535,7 @@ table {
 BODY {
 	font: 16px Oxygen, sans-serif;
 	color: #777;
-	background: #FCFCFC url(http://www.abeautifulsite.net/src/css/images/debut-light.png) fixed repeat;
+	background: #FCFCFC url(https://raw.github.com/drquochoai/giasudhyduoc.com/master/img/debut-light.png) fixed repeat;
 	line-height: 1.75;
 }
 .entry-title{font-size: 30px;
@@ -2004,7 +2004,6 @@ Tags: custom
 		left:-100px;
 		}
 #address_wrap{
-	background: url(http://www.symphonyonline.co.uk/templates/home/images/body_bg.jpg) repeat;
 	height:200px;
 	width:auto;
 	margin:auto;
